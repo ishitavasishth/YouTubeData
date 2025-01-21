@@ -147,10 +147,6 @@ ORDER BY engagement_ratio DESC;
 ## Conclusion
 This project demonstrates the power of SQL in analyzing YouTube data for valuable business insights, including engagement drivers, sentiment trends, and predictive modeling.
 
-## Future Enhancements
-- Integrating machine learning models for more advanced predictions.
-- Creating visual dashboards using tools like Tableau or Power BI.
-- Exploring user behavior patterns over time.
 
 ---
 
